@@ -2,14 +2,8 @@ package com.ew.tutorialmod.init;
 
 import java.util.ArrayList;
 import java.util.List;
-
-//import com.ew.tutorialmod.items.ItemBase;
-//import com.ew.tutorialmod.items.tools.ToolSword;
-
+import com.ew.tutorialmod.items.ItemBase;
 import net.minecraft.item.Item;
-import net.minecraft.item.Item.ToolMaterial;
-import net.minecraft.item.ItemSword;
-import net.minecraftforge.common.util.EnumHelper;
 
 public class ModItems {
 
@@ -21,7 +15,7 @@ public class ModItems {
 //	
 //	// Items
 //	public static final Item TUTORIAL_INGOT = new ItemBase("tutorial_ingot");
-//	public static final Item RUBY = new ItemBase("ruby");
+	public static final Item RUBY = new ItemBase("ruby");
 //	public static final Item TRISTONIUM_INGOT = new ItemBase("tristonium_ingot");
 //	
 //	//tools
